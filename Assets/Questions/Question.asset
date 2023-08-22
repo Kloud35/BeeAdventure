@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da029b9f5770ab4489b98d373e06d3be, type: 3}
+  m_Name: Question
+  m_EditorClassIdentifier: 
+  question: "V\u01B0\u01A1ng tri\u1EC1u n\xE0o \u0111\u01B0\u1EE3c cho l\xE0 \u0111\xE3
+    th\u1ED1ng nh\u1EA5t l\xE3nh th\u1ED5 c\u1EE7a ng\u01B0\u1EDDi Vi\u1EC7t trong
+    th\u1EDDi k\u1EF3 s\u01A1 khai?"
+  anwers:
+  - " Tri\u1EC1u \u0111\u1EA1i L\xEA"
+  - " Tri\u1EC1u \u0111\u1EA1i Nguy\u1EC5n"
+  - "Tri\u1EC1u \u0111\u1EA1i Tr\u1EA7n"
+  - " Tri\u1EC1u \u0111\u1EA1i H\u1ED3"
