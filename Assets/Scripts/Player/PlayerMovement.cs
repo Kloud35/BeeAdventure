@@ -33,6 +33,10 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
         dirX = Input.GetAxisRaw("Horizontal");
 
         if (SceneManager.GetAllScenes().Length > 1)

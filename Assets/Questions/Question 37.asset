@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da029b9f5770ab4489b98d373e06d3be, type: 3}
+  m_Name: Question 37
+  m_EditorClassIdentifier: 
+  question: "\" \u0110\xE2u kh\xF4ng ph\u1EA3i l\xE0 l\xFD do \u0111\u1EC3 \u0111\u1EBFn
+    n\u0103m 1873 Ph\xE1p m\u1EDBi t\u1EA5n c\xF4ng ra B\u1EAFc K\xEC l\u1EA7n th\u1EE9
+    nh\u1EA5t?\""
+  anwers:
+  - "\"B\u1EADn \u0111\xE0n \xE1p phong tr\xE0o c\xE1ch m\u1EA1ng  \u1EDF Trung Qu\u1ED1c\""
+  - "\"T\xE1c \u0111\u1ED9ng c\u1EE7a cu\u1ED9c chi\u1EBFn tranh  Ph\xE1p- Ph\u1ED5\""
+  - "\u1EA2nh h\u01B0\u1EDFng c\u1EE7a c\xF4ng x\xE3 Pari 1871"
+  - "\"Ph\xE1p t\xECm ra con \u0111\u01B0\u1EDDng s\xF4ng H\u1ED3ng  \u0111\u1EC3
+    tham nh\u1EADp v\xE0o ph\xEDa  Nam Trung Hoa\""

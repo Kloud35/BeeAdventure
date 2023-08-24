@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da029b9f5770ab4489b98d373e06d3be, type: 3}
+  m_Name: Question 39
+  m_EditorClassIdentifier: 
+  question: "\"Ai l\xE0 ng\u01B0\u1EDDi l\xE3nh \u0111\u1EA1o phong tr\xE0o C\u1EA7n
+    V\u01B0\u01A1ng ch\u1ED1ng Ph\xE1p trong giai \u0111o\u1EA1n t\u1EEB n\u0103m
+    1885 \u0111\u1EBFn th\xE1ng 11-1888?\""
+  anwers:
+  - "H\xE0m Nghi v\xE0 T\xF4n Th\u1EA5t Thuy\u1EBFt."
+  - "T\xF4n Th\u1EA5t Thuy\u1EBFt."
+  - "Phan \u0110\xECnh Ph\xF9ng."
+  - "T\xF4n Th\u1EA5t Thuy\u1EBFt v\xE0 Phan \u0110\xECnh Ph\xF9ng."

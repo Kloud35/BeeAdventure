@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da029b9f5770ab4489b98d373e06d3be, type: 3}
+  m_Name: Question 24
+  m_EditorClassIdentifier: 
+  question: "Nh\xE0 n\u01B0\u1EDBc n\xE0o \u0111\xE3 x\xE2y d\u1EF1ng H\u1ECFa L\xF2
+    (c\xF2n g\u1ECDi l\xE0 \"Nh\xE0 L\xF2\") v\xE0o th\u1EBF k\u1EF7 3 TCN?"
+  anwers:
+  - "Nh\xE0 Tri\u1EC7u"
+  - "Nh\xE0 H\xE1n"
+  - "Nh\xE0 \u0110\u01B0\u1EDDng"
+  - "Nh\xE0 M\u1EA1c"

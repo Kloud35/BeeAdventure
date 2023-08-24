@@ -7,6 +7,8 @@ public class GameController : MonoBehaviour
 {
     int countRight = 0;
     // Start is called before the first frame update
+    [SerializeField] private AudioSource wrongSoundEffect;
+    [SerializeField] private AudioSource rightSoundEffect;
     void Start()
     {
         CreateQuestion();
@@ -71,19 +73,23 @@ public class GameController : MonoBehaviour
     {
         if (button.CompareTag("RightAnswer"))
         {
+            rightSoundEffect.Play();
             EnemyHealthManager.instance.TakeDamage();
-
             if (EnemyHealthManager.instance.currentHealth == 0)
             {
+                rightSoundEffect.Play();
                 if (SceneManager.UnloadScene(SceneManager.GetSceneAt(1)))
                 {
                 };
+
             }
             CreateQuestion();
         }
         else
         {
+            wrongSoundEffect.Play();
             HealthManager.instance.TakeDamage();
+
             if(HealthManager.instance.currentHealth == 0)
             {
                 SceneManager.LoadScene(SceneManager.GetSceneAt(0).name);

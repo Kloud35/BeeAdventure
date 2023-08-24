@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da029b9f5770ab4489b98d373e06d3be, type: 3}
+  m_Name: Question 40
+  m_EditorClassIdentifier: 
+  question: "\"Phong tr\xE0o C\u1EA7n V\u01B0\u01A1ng b\xF9ng n\u1ED5 xu\u1EA5t ph\xE1t
+    t\u1EEB nguy\xEAn nh\xE2n s\xE2u xa n\xE0o sau \u0111\xE2y?\""
+  anwers:
+  - "M\xE2u thu\u1EABn d\xE2n t\u1ED9c di\u1EC5n ra gay g\u1EAFt."
+  - "S\u1EF1 ra \u0111\u1EDDi c\u1EE7a chi\u1EBFu C\u1EA7n V\u01B0\u01A1ng"
+  - "Cu\u1ED9c ph\u1EA3n c\xF4ng \u1EDF kinh th\xE0nh Hu\u1EBF"
+  - "\"M\xE2u thu\u1EABn gi\u1EEFa ph\xE1i ch\u1EE7 chi\u1EBFn v\u1EDBi  th\u1EF1c
+    d\xE2n Ph\xE1p\""
